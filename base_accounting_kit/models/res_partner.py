@@ -22,7 +22,7 @@
 
 from datetime import date, timedelta
 
-from odoo import fields, models
+from odoo import fields, models,_
 
 
 class ResPartner(models.Model):

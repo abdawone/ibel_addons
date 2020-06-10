@@ -20,7 +20,7 @@
 #
 #############################################################################
 
-from odoo import fields, models
+from odoo import fields, models,_
 
 
 class Followup(models.Model):

@@ -20,7 +20,7 @@
 #
 #############################################################################
 
-from odoo import api, fields, models
+from odoo import api, fields, models,_
 
 
 class ProductTemplate(models.Model):
